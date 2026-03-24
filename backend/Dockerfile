@@ -27,7 +27,7 @@ RUN pip install --no-cache-dir \
 
 RUN pip install --no-cache-dir \
     langgraph==0.0.69 \
-    langchain-core==0.1.52
+    langchain-core==0.2.9
 
 RUN pip install --no-cache-dir -r requirements.txt
 
