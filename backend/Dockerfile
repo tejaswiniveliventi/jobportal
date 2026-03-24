@@ -26,8 +26,8 @@ RUN pip install --no-cache-dir \
     google-generativeai==0.5.4
 
 RUN pip install --no-cache-dir \
-    langgraph==0.1.19 \
-    langchain-core==0.2.9
+    langgraph==0.0.69 \
+    langchain-core==0.1.52
 
 RUN pip install --no-cache-dir -r requirements.txt
 

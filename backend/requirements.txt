@@ -31,8 +31,8 @@ tenacity==8.2.3
 
 # ── AI / LLM ───────────────────────────────────────────────
 google-generativeai==0.5.4
-langchain-core==0.2.9
-langgraph==0.1.19
+langchain-core==0.1.52
+langgraph==0.0.69
 
 # ── Vector DB ──────────────────────────────────────────────
 chromadb==0.5.0
